@@ -1,7 +1,7 @@
 # MovieLens 100k Dataset Analysis using Cassandra and Spark 🚀⚡️
 A repository for Project 3 Data Management - utilising Cassandra Query Language and SQL
 
-## Introduction
+## 📊 Introduction
 This project analyzes the MovieLens 100K Dataset using **Cassandra** and **Spark**. The dataset, collected by the GroupLens Research Project at the University of Minnesota, consists of 100,000 ratings from 943 users on 1,682 movies. The analysis uses both Cassandra Query Language (CQL) and Spark2 Structured Query Language (SQL) to answer key questions about user demographics and movie ratings.
 
 

@@ -1,12 +1,11 @@
-# MovieLens 100k Dataset Analysis using Cassandra and Spark
+# MovieLens 100k Dataset Analysis using Cassandra and Spark 🚀⚡️
 A repository for Project 3 Data Management - utilising Cassandra Query Language and SQL
 
 ## Introduction
 This project analyzes the MovieLens 100K Dataset using **Cassandra** and **Spark**. The dataset, collected by the GroupLens Research Project at the University of Minnesota, consists of 100,000 ratings from 943 users on 1,682 movies. The analysis uses both Cassandra Query Language (CQL) and Spark2 Structured Query Language (SQL) to answer key questions about user demographics and movie ratings.
 
-***
 
-## Project Goals
+## 🎯 Project Goals 
 
 The analysis in this project is focused on answering the following questions:
 
@@ -16,25 +15,25 @@ The analysis in this project is focused on answering the following questions:
 4.  **Find all users who are less than 20 years old.**
 5.  **Find all users whose occupation is "scientist" and whose age is between 30 and 40 years old.**
 
-***
 
-## Prerequisites
+
+## ⚙️ Prerequisites
 
 To run this project, you'll need the **Docker** installed. The project uses a containerized environment with a custom Docker network to connect Apache Zeppelin and Apache Cassandra. The setup is included in the *json* file.
 
-***
 
-## Technologies Used
 
-* **Docker**: Containerization platform.
-* **Apache Spark2**: Distributed data processing engine.
-* **Apache Cassandra**: NoSQL database for scalable data storage.
-* **Apache Zeppelin**: A web-based notebook for interactive data analytics.
-* **Python**: The programming language for the wrapper script.
+## 💻 Technologies Used
 
-***
+* **Docker** 🐳: Containerization platform.
+* **Apache Spark2** ⚡️: Distributed data processing engine.
+* **Apache Cassandra** 💾: NoSQL database for scalable data storage.
+* **Apache Zeppelin** 📓: A web-based notebook for interactive data analytics.
+* **Python** 🐍: The programming language for the wrapper script.
 
-## Instructions
+
+
+## 💡 Instructions
 
 ### 1. Download the Dataset
 
